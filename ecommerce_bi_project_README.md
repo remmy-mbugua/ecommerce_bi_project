@@ -33,7 +33,7 @@ Key business questions answered:
 
 ##  Data Modelling Approach
 
-### ⭐ Star Schema Design
+### Star Schema Design
 
 
 
@@ -126,7 +126,7 @@ The report is divided into 5 key sections:
   - UK dominates but may be saturated  
   - Home Decor leads in category revenue  
 
-![Executive Overview](assets/executive overview.png)
+![Executive Overview](assets/executive_overview.png)
 
 ---
 
@@ -140,7 +140,7 @@ The report is divided into 5 key sections:
   - Investment opportunity in Gardening & Music
 
 
-![Product Performance](assets/product performance.png)
+![Product Performance](assets/product_performance.png)
 
 ---
 
@@ -153,7 +153,7 @@ The report is divided into 5 key sections:
   - UK well-established, less room for growth
 
 
-![Market / Region Analysis](assets/Market Region Analysis.png)
+![Market / Region Analysis](assets/market_region_analysis.png)
 
 ---
 
@@ -166,7 +166,7 @@ The report is divided into 5 key sections:
   - Signs of improving engagement, but churn risks rising
 
 
-![Customer Behaviour](assets/Customer Behaviour.png)
+![Customer Behaviour](assets/customer_behaviour.png)
 
 ---
 
@@ -186,7 +186,7 @@ The report is divided into 5 key sections:
   - Investigate high-return products and test price increases  
 
 
-![Summary & Next Steps](assets/strategic recommendations & next steps.png)
+![Summary & Next Steps](assets/summary_and_next_steps.png)
 
 ---
 
