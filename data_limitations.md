@@ -1,6 +1,6 @@
 # Data Limitations & Challenges
 
-This document outlines the key challenges, assumptions, and limitations encountered during the data preparation and analysis phase of the eCommerce Business Intelligence project.
+This document outlines the key challenges, assumptions, and limitations encountered during the data preparation and analysis phase of the project.
 
 ## 1. Missing Customer IDs
 Approximately 25% of transactions lacked a `CustomerID`. These rows were excluded to maintain the accuracy of customer-level analysis such as retention, RFM segmentation, and cohort tracking.
