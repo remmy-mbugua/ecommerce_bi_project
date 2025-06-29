@@ -126,7 +126,7 @@ The report is divided into 5 key sections:
   - UK dominates but may be saturated  
   - Home Decor leads in category revenue  
 
-![Executive Overview](images/executive overview.png)
+![Executive Overview](images/executive_overview.png)
 
 ---
 
@@ -140,7 +140,7 @@ The report is divided into 5 key sections:
   - Investment opportunity in Gardening & Music
 
 
-![Product Performance](images/product performance.png)
+![Product Performance](images/product_performance.png)
 
 ---
 
@@ -153,7 +153,7 @@ The report is divided into 5 key sections:
   - UK well-established, less room for growth
 
 
-![Market / Region Analysis](images/Market Region Analysis.png)
+![Market / Region Analysis](images/market_region_analysis.png)
 
 ---
 
@@ -166,7 +166,7 @@ The report is divided into 5 key sections:
   - Signs of improving engagement, but churn risks rising
 
 
-![Customer Behaviour](images/Customer Behaviour.png)
+![Customer Behaviour](images/customer_behaviour.png)
 
 ---
 
@@ -186,7 +186,7 @@ The report is divided into 5 key sections:
   - Investigate high-return products and test price increases  
 
 
-![Summary & Next Steps](images/strategic recommendations & next steps.png)
+![Summary & Next Steps](images/summary_and_next_steps.png)
 
 ---
 
