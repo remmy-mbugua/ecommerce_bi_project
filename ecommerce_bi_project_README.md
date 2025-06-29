@@ -126,7 +126,7 @@ The report is divided into 5 key sections:
   - UK dominates but may be saturated  
   - Home Decor leads in category revenue  
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](main/images/executive_overview.png)
 
 ---
 
