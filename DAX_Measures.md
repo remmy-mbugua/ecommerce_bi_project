@@ -67,7 +67,7 @@ VAR PreviousPeriod =
     CALCULATETABLE(VALUES('public fact_sales'[Customer ID]), FILTER(ALL('public dim_date'), 'public dim_date'[Year] = YEAR(EDATE(SelectedMonth, -1)) && 'public dim_date'[Month] = MONTH(EDATE(SelectedMonth, -1))), 'public fact_sales'[Transaction Type] = "Sale")
 RETURN COUNTROWS(EXCEPT(PreviousPeriod, CurrentPeriod))
 ```
-<br><br>
+ --- 
 
 ### Product Performance
 
@@ -119,7 +119,7 @@ Customer Count =
 VAR Result = DISTINCTCOUNT('public dim_customer'[Customer ID])
 RETURN IF(ISBLANK(Result), 0, Result)
 ```
-<br><br>
+ --- 
 
 ### Market/Region Analysis
 
@@ -140,7 +140,7 @@ Average revenue per customer across entire dataset.
 Revenue per Customer = 
 DIVIDE(SUM('public fact_sales'[Total Amount]), DISTINCTCOUNT('public fact_sales'[Customer ID]))
 ```
-<br><br>
+ --- 
 
 ### Customer Behaviour
 
