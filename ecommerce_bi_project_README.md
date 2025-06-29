@@ -33,7 +33,7 @@ Key business questions answered:
 
 ##  Data Modelling Approach
 
-### ⭐ Star Schema Design
+### Star Schema Design
 
 
 
