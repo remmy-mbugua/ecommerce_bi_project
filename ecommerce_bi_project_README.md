@@ -126,6 +126,8 @@ The report is divided into 5 key sections:
   - UK dominates but may be saturated  
   - Home Decor leads in category revenue  
 
+![Executive Overview](assets/executive overview.png)
+
 ---
 
 ### 2. Product Performance
@@ -137,6 +139,9 @@ The report is divided into 5 key sections:
   - High return rates in Kitchen & Party Supplies  
   - Investment opportunity in Gardening & Music
 
+
+![Product Performance](assets/product performance.png)
+
 ---
 
 ### 3. Market / Region Analysis
@@ -147,6 +152,9 @@ The report is divided into 5 key sections:
   - Belgium & Switzerland promising despite smaller base  
   - UK well-established, less room for growth
 
+
+![Market / Region Analysis](assets/Market Region Analysis.png)
+
 ---
 
 ### 4. Customer Behaviour
@@ -156,6 +164,9 @@ The report is divided into 5 key sections:
   - High-value customers = 33% of revenue  
   - Half of new users churn within 3 months  
   - Signs of improving engagement, but churn risks rising
+
+
+![Customer Behaviour](assets/Customer Behaviour.png)
 
 ---
 
@@ -174,6 +185,8 @@ The report is divided into 5 key sections:
   - Expand in promising markets (France, Germany)  
   - Investigate high-return products and test price increases  
 
+
+![Summary & Next Steps](assets/strategic recommendations & next steps.png)
 
 ---
 
@@ -197,10 +210,10 @@ The report is divided into 5 key sections:
 
 ##  Files & Access
 
-- `bi_sql_transformation_logic` – Data transformation & modelling queries  
-- `PowerBI_Report.pbix` – Interactive report 
+- `bi_sql_transformation_logic.md` – Data transformation & modelling queries  
+- `eCommerce_BI_Report.pbix` – Interactive report 
 - `Project_Summary.pdf` – One-pager for recruiters or clients
-- 'data_limitations' - Notes on data quality and limitations
-- 'DAX_Measures' - DAX Measures used across the BI report
+- 'data_limitations.md' - Notes on data quality and limitations
+- 'dax_measures.md' - DAX Measures used across the BI report
 
 ---
