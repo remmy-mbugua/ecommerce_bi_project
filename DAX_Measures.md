@@ -68,6 +68,7 @@ VAR PreviousPeriod =
 RETURN COUNTROWS(EXCEPT(PreviousPeriod, CurrentPeriod))
 ```
 
+
 ### Product Performance
 
 **Revenue per Product**  
