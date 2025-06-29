@@ -33,7 +33,7 @@ Key business questions answered:
 
 ##  Data Modelling Approach
 
-### Star Schema Design
+### ⭐ Star Schema Design
 
 
 
@@ -126,7 +126,7 @@ The report is divided into 5 key sections:
   - UK dominates but may be saturated  
   - Home Decor leads in category revenue  
 
-![Executive Overview](assets/executive_overview.png)
+![Executive Overview](images/executive overview.png)
 
 ---
 
@@ -140,7 +140,7 @@ The report is divided into 5 key sections:
   - Investment opportunity in Gardening & Music
 
 
-![Product Performance](assets/product_performance.png)
+![Product Performance](images/product performance.png)
 
 ---
 
@@ -153,7 +153,7 @@ The report is divided into 5 key sections:
   - UK well-established, less room for growth
 
 
-![Market / Region Analysis](assets/market_region_analysis.png)
+![Market / Region Analysis](images/Market Region Analysis.png)
 
 ---
 
@@ -166,7 +166,7 @@ The report is divided into 5 key sections:
   - Signs of improving engagement, but churn risks rising
 
 
-![Customer Behaviour](assets/customer_behaviour.png)
+![Customer Behaviour](images/Customer Behaviour.png)
 
 ---
 
@@ -186,7 +186,7 @@ The report is divided into 5 key sections:
   - Investigate high-return products and test price increases  
 
 
-![Summary & Next Steps](assets/summary_and_next_steps.png)
+![Summary & Next Steps](images/strategic recommendations & next steps.png)
 
 ---
 
@@ -210,10 +210,10 @@ The report is divided into 5 key sections:
 
 ##  Files & Access
 
-- `bi_sql_transformation_logic.md` – Data transformation & modelling queries  
-- `eCommerce_BI_Report.pbix` – Interactive report 
-- `Project_Summary.pdf` – One-pager for recruiters or clients
-- 'data_limitations.md' - Notes on data quality and limitations
-- 'dax_measures.md' - DAX Measures used across the BI report
+- [SQL Transformation Logic](bi_sql_transformation_logic.md) – Data transformation & modelling queries  
+- [Power BI Report (.pbix)](eCommerce_BI_Report.pbix) – Interactive report  
+- [Project Summary (.pdf)](Project_Summary.pdf) – One-pager for recruiters or clients  
+- [Data Limitations](data_limitations.md) – Notes on data quality and limitations  
+- [DAX Measures](dax_measures.md) – DAX Measures used across the BI report  
 
 ---
