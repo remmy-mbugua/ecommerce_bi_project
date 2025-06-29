@@ -50,7 +50,7 @@ VAR Result = CALCULATE(DISTINCTCOUNT('public fact_sales'[Customer ID]), 'public 
 RETURN IF(ISBLANK(Result), 0, Result)
 ```
 
-**Churned Customers**
+**Churned Customers**  
 Calculates customers who made a purchase in the previous month but did not return in the current month.
 
 This uses EXCEPT() between two time windows to define churn as a complete lack of activity in the following month. 
