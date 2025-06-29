@@ -384,6 +384,7 @@ LEFT JOIN product_categories_new pc ON fs.product_name = pc.product;
 
 Generates a full calendar table from Dec 2010 to Dec 2011 with useful time dimensions.
 
+```sql
 CREATE TABLE dim_date AS
 WITH cte AS (
 SELECT generate_series('2010-12-01'::date, '2011-12-31'::date, '1 day')::date AS Date
@@ -402,10 +403,11 @@ SELECT DISTINCT
 	WHEN EXTRACT(MONTH FROM Date) BETWEEN 10 AND 12 THEN 'Q4'
 	END AS quarter
 	
-  FROM cte
+  FROM cte;
 
 
 ALTER TABLE dim_date
 ADD COLUMN quarter_label TEXT;
 UPDATE dim_date
 SET quarter_label = quarter ||' '|| year
+```
