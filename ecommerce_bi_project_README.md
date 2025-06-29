@@ -99,7 +99,7 @@ Constructed `dim_geography` to support country-level cohort and customer analysi
 
 ---
 
-##  Cohort Analysis
+### Cohort Analysis
 
 Built a cohort table to track **monthly retention by acquisition month**:
 
