@@ -36,7 +36,6 @@ Key business questions answered:
 ### Star Schema Design
 
 
-
 Designed a **star schema** to support efficient querying and reporting:
 
 - **Fact Tables**:  
@@ -49,6 +48,8 @@ Designed a **star schema** to support efficient querying and reporting:
   - `dim_customer`: Customer IDs linked to country  
   - `dim_geography`: Country, region, continent metadata  
   - `dim_date`: Continuous calendar with flags for incomplete months
+
+![Data Model](images/data_model.PNG)
 
 ---
 
