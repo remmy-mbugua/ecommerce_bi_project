@@ -62,7 +62,7 @@ Designed a **star schema** to support efficient querying and reporting:
 
 ---
 
-##  Handling Returns
+### Handling Returns
 
 Returns logic was carefully implemented to prevent inflated return rates:
 
@@ -77,7 +77,7 @@ Returns were validated only if the customer had sufficient prior purchases, ensu
 
 ---
 
-##  RFM Segmentation
+### RFM Segmentation
 
 Created a separate fact table for **monthly RFM scoring** with banded values for stability:
 
@@ -89,7 +89,7 @@ Segments (e.g. *Champions*, *At Risk*, *Low Engagement*) were updated monthly an
 
 ---
 
-##  Geographic Mapping
+### Geographic Mapping
 
 Constructed `dim_geography` to support country-level cohort and customer analysis:
 
