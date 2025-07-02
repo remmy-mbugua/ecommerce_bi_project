@@ -162,9 +162,9 @@ The report is divided into 5 key sections:
 
 - **Visuals**: RFM segments, segment transitions, cohort heatmaps  
 - **Insights**:  
-  - High-value customers = 33% of revenue  
-  - Half of new users churn within 3 months  
-  - Signs of improving engagement, but churn risks rising
+  - High-value customers = 1/3 of customers
+  - Half of new users are low engagement within 3 months  
+  - Signs of improving engagement with the high-value segment expanding, but churn risks rising
 
 
 ![Customer Behaviour](images/customer_behaviour.PNG)
