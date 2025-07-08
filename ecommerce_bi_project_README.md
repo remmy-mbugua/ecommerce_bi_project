@@ -211,10 +211,10 @@ The report is divided into 5 key sections:
 
 ##  Files & Access
 
-- [SQL Transformation Logic](bi_sql_transformation_logic.md) – Data transformation & modelling queries  
+- [BI SQL Logic](sql/bi_sql_transformation_logic.md) – Data transformation & modelling queries  
 - [Power BI Report (.pbix)](eCommerce_BI_Report.pbix) – Interactive report  
-- [Project Summary (.pdf)](project_summary.pdf) – One-pager for recruiters or clients  
-- [Data Limitations](data_limitations.md) – Notes on data quality and limitations  
-- [DAX Measures](dax_measures.md) – DAX Measures used across the BI report  
+- [Project Summary (.pdf)](docs/project_summary.pdf) – One-pager for recruiters or clients  
+- [Data Limitations](docs/data_limitations.md) – Notes on data quality and limitations  
+- [DAX Measures](docs/dax_measures.md) – DAX Measures used across the BI report  
 
 ---
